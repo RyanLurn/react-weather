@@ -1,0 +1,12 @@
+#app {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 2rem;
+  margin-right: 10rem;
+  margin-left: 10rem;
+}
+
+#app hgroup {
+  text-align: center;
+}
