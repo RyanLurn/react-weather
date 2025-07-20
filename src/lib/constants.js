@@ -1,4 +1,4 @@
-const WEATHER_API_KEY = import.meta.env.VITE_WEATHER_API_KEY;
+const VITE_WEATHER_API_KEY = import.meta.env.VITE_WEATHER_API_KEY;
 const WEATHER_API_URL = "http://api.weatherapi.com/v1";
 
 const WEATHER_CONDITIONS = [
@@ -292,4 +292,4 @@ const WEATHER_CONDITIONS = [
   }
 ];
 
-export { WEATHER_API_KEY, WEATHER_API_URL, WEATHER_CONDITIONS };
+export { VITE_WEATHER_API_KEY, WEATHER_API_URL, WEATHER_CONDITIONS };
