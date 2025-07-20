@@ -1,5 +1,5 @@
 function App() {
-  return <>React Weather</>;
+  return <h1>React Weather</h1>;
 }
 
 export default App;
